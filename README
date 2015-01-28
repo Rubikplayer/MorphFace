@@ -1,0 +1,10 @@
+README
+
+This matlab project aims to produce a consecutive morphing video from one face to another. the script ./main.m is the main script for demo. To produce your own video, you can change the source images in ./img and landmarks in ./get_landmarks.m. I have to admit that the landmark labeling is quite troublesome. So, patience, my friend... If with enough time, I should make an interface for you guys to label feature points. The output frame images and video will be saved at ./frames and ./output.
+
+The codes are programmed and tested in MATLAB R2013b-64bit on Mac OS X v10.9.5.
+
+Hope you enjoy!
+If anything, feel free to contact me at tianye.focus@gmail.com.
+
+Tianye (Rubik)
